@@ -1,0 +1,43 @@
+# Omarchy theme — "Van Gogh" (梵高：星夜·向日葵·鸢尾·麦田)
+# Palette distilled from the four public-domain paintings shipped in backgrounds/.
+# Core contrast: Starry Night cobalt vs. Wheatfield gold, as in
+# "Wheatfield with Crows" (1890) — cobalt blue sky over a golden wheat sea.
+
+mode = "dark"
+
+accent = "#e6b23c"                     # Wheatfield gold (向日葵黄 / 麦田金)
+selection = "#20305c"                  # Starry Night deep cobalt (星夜深蓝)
+selection_background = "#20305c"
+selection_foreground = "#f3ecda"
+muted = "#7d8698"                      # Swirling night haze (夜空雾蓝灰)
+
+background = "#0d1226"                 # Starry Night midnight (星夜深空)
+dark_background = "#090d1d"            # River night, "Starry Night Over the Rhône"
+darker_background = "#060913"          # Crows sky zenith (乌鸦夜空)
+lighter_background = "#1a2440"         # Lifting cobalt cloud (钴蓝云层)
+
+foreground = "#eee6d0"                 # Wheat cream light (麦田奶油)
+dark_foreground = "#8a8774"            # Aged canvas shadow (旧画布阴影)
+light_foreground = "#f3ecda"           # Moonlight cream (月光米白)
+bright_foreground = "#faf4e4"          # Star halo white (星芒亮白)
+
+hyprland_active_border = "rgba(e6b23cee) rgba(3f6accee) 45deg"
+hyprland_inactive_border = "rgba(1a2440bb)"
+active_border_color = "#e6b23c"        # Sunflower gold focus ring
+active_tab_background = "#e6b23c"
+
+red = "#b3543c"                        # Rust red signature (梵高落款锈红)
+green = "#6f8f5a"                      # Iris leaf green (鸢尾叶绿)
+yellow = "#e6b23c"                     # Sunflower gold (向日葵黄)
+orange = "#cc8a3a"                     # Wheat harvest amber (麦熟琥珀)
+blue = "#3f6acc"                       # Starry Night cobalt (星夜钴蓝)
+magenta = "#8a6a9e"                    # Iris violet shadow (鸢尾紫影)
+cyan = "#5a9a9a"                       # Night swirl teal (星涡青)
+brown = "#6a5238"                      # Cypresses earth (柏树土褐)
+
+bright_red = "#cc6a4e"
+bright_green = "#8aab6e"
+bright_yellow = "#f2c65a"
+bright_blue = "#5a82d4"
+bright_magenta = "#a488ba"
+bright_cyan = "#72b2b2"
