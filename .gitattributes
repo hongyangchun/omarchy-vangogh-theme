@@ -1,0 +1,3 @@
+# Binary assets — never line-ending mangled
+*.jpg binary
+*.png binary
