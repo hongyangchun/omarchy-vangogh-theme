@@ -130,3 +130,7 @@ MIT — see [LICENSE](LICENSE). The bundled paintings are public-domain artworks
 ---
 
 > *"I dream my painting and I paint my dream."* — Vincent van Gogh
+
+---
+
+> This theme was made with the [omarchy-theme-skill](https://github.com/hongyangchun/omarchy-theme-skill) - the pipeline that sources art, builds palettes and ships the repo.
